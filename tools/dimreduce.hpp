@@ -6,11 +6,11 @@
 
 #ifndef __DIMREDUCE_H
 #define __DIMREDUCE_H 0
-#include "tbdefs.hpp"
-#include "minsearch.hpp"
-#include "interpol.hpp"
-#include "matrix-full.hpp"
-#include "matrix-crs.hpp"
+#include "../libs/tbdefs.hpp"
+#include "../libs/minsearch.hpp"
+#include "../libs/interpol.hpp"
+#include "../libs/matrix-full.hpp"
+#include "../libs/matrix-crs.hpp"
 
 namespace toolbox {
 

@@ -1,0 +1,5 @@
+/home/fede/Desktop/kometa/sketchmap/build/CMakeFiles/edit_cache.dir
+/home/fede/Desktop/kometa/sketchmap/build/CMakeFiles/rebuild_cache.dir
+/home/fede/Desktop/kometa/sketchmap/build/CMakeFiles/sketchmap.dir
+/home/fede/Desktop/kometa/sketchmap/build/pybind11/CMakeFiles/edit_cache.dir
+/home/fede/Desktop/kometa/sketchmap/build/pybind11/CMakeFiles/rebuild_cache.dir

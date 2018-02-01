@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC   -shared  -o sketchmap.cpython-35m-x86_64-linux-gnu.so CMakeFiles/sketchmap.dir/tools/main.cpp.o -flto 

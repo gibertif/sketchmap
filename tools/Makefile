@@ -3,7 +3,7 @@
 SOURCES=$(shell ls *.cpp)
 OBJECTS=$(SOURCES:.cpp=.o)
 DEPENDS=$(SOURCES:.cpp=.d)
-TOOLS=dimdist dimlandmark dimproj dimred 
+TOOLS=dimproj #dimdist dimlandmark dimproj dimred 
 .PHONY: all obj clean $(TOOLS)
 
 all: $(TOOLS)
